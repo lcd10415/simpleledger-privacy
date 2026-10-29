@@ -1,13 +1,11 @@
 # SimpleLedger / 简单记账 — Privacy Policy
 
-This repository hosts the public Privacy Policy for the iOS app **简单记账 (SimpleLedger)**.
+Public Privacy Policy for the iOS app **简单记账 (SimpleLedger)**.
 
-## Live page
+## Live URL (for App Store Connect)
 
-After GitHub Pages is enabled, open:
+https://lcd10415.github.io/simpleledger-privacy/
 
-`https://<your-github-username>.github.io/simpleledger-privacy/`
+## Repository
 
-## Local preview
-
-Open `index.html` in a browser.
+https://github.com/lcd10415/simpleledger-privacy
