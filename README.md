@@ -1,10 +1,9 @@
-# SimpleLedger / 简单记账 — Privacy Policy
+# SimpleLedger / 简单记账 — Privacy & Support
 
-Public Privacy Policy for the iOS app **简单记账 (SimpleLedger)**.
+## Live URLs (for App Store Connect)
 
-## Live URL (for App Store Connect)
-
-https://lcd10415.github.io/simpleledger-privacy/
+- Privacy Policy: https://lcd10415.github.io/simpleledger-privacy/
+- Support: https://lcd10415.github.io/simpleledger-privacy/support.html
 
 ## Repository
 
